@@ -1,0 +1,12 @@
+*{
+    margin: 0 auto;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #053c4d;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
